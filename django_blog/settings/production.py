@@ -1,9 +1,9 @@
 from .base import *
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = True  #esto es lo que muestra los errores en una pagina del navegador
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangoblogpildoras.herokuapp.com']
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
