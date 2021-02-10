@@ -11,6 +11,7 @@ jdcal==1.4.1
 MarkupPy==1.14
 odfpy==1.4.1
 openpyxl==3.0.6
+psycopg2==2.8.6
 pytz==2020.5
 PyYAML==5.4.1
 sqlparse==0.4.1
