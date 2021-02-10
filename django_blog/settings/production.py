@@ -11,10 +11,10 @@ ALLOWED_HOSTS = ['djangoblogpildoras.herokuapp.com']
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd25ongkgdl9u4d',
-        'User': 'knanctqxddzqej',
-        'Password': 'b6c1b3fdf8c96b2f850462ca426c073be96a729dc5f39714072bc0b7e52def9d',
-        'HOST': 'ec2-100-24-139-146.compute-1.amazonaws.com',
+        'NAME': 'd5r50tfnku1ov5',
+        'User': 'foslqtzwmdvjsa',
+        'Password': 'a27b4e9b4afc481dde2ef38df7e7ace7cd620c4cb93f256e5f218d655a6482a9',
+        'HOST': 'ec2-67-202-63-147.compute-1.amazonaws.com',
         'PORT': 5432,
     }
 }
